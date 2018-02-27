@@ -94,3 +94,7 @@ $ django loaddata data.json
 </code></pre>
 
 该功能可以用于后续行政区信息更新。
+
+# 运行环境
+* python: 3.6
+* django: 2.0.2
