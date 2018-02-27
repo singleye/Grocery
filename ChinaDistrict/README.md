@@ -4,7 +4,7 @@
 # 功能
 ## 1. 查询API
 
-### API 1: 获取district列表
+### API 1: 获取所有行政区列表
 
 **URL:** /district
 
