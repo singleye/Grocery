@@ -13,7 +13,7 @@ def parse_file(filename):
                         'pk':code,
                         'fields': {
                             'name':name,
-                            'parent_code':pcode.strip(),
+                            'parent':pcode.strip(),
                             'level':level
                         }
                    }
